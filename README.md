@@ -2,8 +2,8 @@
 <h1 align="center">A Strategic Barge Forecasting & Optimization Project</h1>
 
 <p align="center">
-    <img src="./imgs/MIT_logo.svg.png" width="45%" alt="MIT Logo">
-    <img src="./imgs/DP_World_2021_logo.svg.png" width="45%" alt="DP World Logo">
+    <img src="./imgs/MIT_logo.svg.png" width="30%" alt="MIT Logo">
+    <img src="./imgs/DP_World_2021_logo.svg.png" width="30%" alt="DP World Logo">
 </p>
 
 This repository contains the code, data analysis, and strategic recommendations for a project focused on modernizing U.S. waterway logistics, with a specific focus on the Mississippi River system. The project was prepared for **DP World** in collaboration with the **MIT Center for Transportation & Logistics**.
