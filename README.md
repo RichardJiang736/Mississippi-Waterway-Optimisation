@@ -14,8 +14,8 @@ This repository contains the code, data analysis, and strategic recommendations 
 - [Problem Statement](#2-problem-statement)
 - [Data Analysis and Preprocessing](#3-data-analysis-and-preprocessing)
 - [Forecasting Models](#4-forecasting-models)
-- [Strategic Implications and Recommendations](#5-strategic-implications-and-recommendations)
-- [Repository Structure](#6-repository-structure)
+- [Model Evaluation / Inferences](#5-model-evaluation--inferences)
+- [Strategic Implications and Recommendations](#6-strategic-implications-and-recommendations)
 
 -----
 
@@ -145,7 +145,7 @@ Seasonal risks, such as **drought** (low-water) and **floods** (high-water) in t
 
 -----
 
-## 6\. Repository Structure
+## Repository Structure
 
 ```
 Mississippi-Waterway-Optimisation/
